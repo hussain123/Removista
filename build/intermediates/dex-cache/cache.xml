@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hussa\Desktop\SamplePictures\tutorial-1-camerapreview\openCVTutorial1CameraPreview\build\intermediates\exploded-aar\tutorial-1-camerapreview\openCVLibrary310\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f24b7cc9498c3a98dfcf74eda10f32a296d61ced">
+        <dex dex="C:\Users\hussa\Desktop\SamplePictures\tutorial-1-camerapreview\openCVTutorial1CameraPreview\build\intermediates\pre-dexed\debug\classes-6785c6d7bca7285bf4975faaa307c831866a13ae.jar" />
+    </item>
+
+</items>
